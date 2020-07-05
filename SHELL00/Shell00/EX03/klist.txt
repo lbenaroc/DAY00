@@ -1,0 +1,5 @@
+Credentials cache: API:890F12D5-EF41-4A46-9D76-9F152D413265
+        Principal: lbenaroc@42.FR
+
+  Issued                Expires               Principal
+Jun 29 14:35:23 2020  Jul  6 14:35:20 2020  krbtgt/42.FR@42.FR
